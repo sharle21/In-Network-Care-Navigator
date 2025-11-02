@@ -35,6 +35,7 @@ Integrating insurance network data across multiple providers proved complex due 
 Designing a clear and non-technical UI that feels comforting during a stressful health event.
 Ensuring privacy and security when handling sensitive health and insurance information.
 Balancing AI recommendations with real-world medical reliability.
+Biggest challenege was using the free gemini API and using up the rate limit, which meant it could not fetch the queries.
 
 ## Accomplishments that we're proud of
 Built a fully functional prototype that connects symptom input to real hospital and insurance data.
