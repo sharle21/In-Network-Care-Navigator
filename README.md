@@ -44,7 +44,7 @@ Empathy-driven design can transform how people interact with health technology.
 Building a bridge between insurance data, medical logic, and user emotion is complex but deeply impactful.
 Collaboration between AI, healthcare, and UX design is essential to solve real-world problems.
 
-## What's next for Care Compass
+## What's next for Care Compass?
 We’re expanding Care Compass to:
 Integrate real-time insurance verification and appointment booking.
 Offer personalized preventive care suggestions based on medical history.
